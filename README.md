@@ -18,7 +18,7 @@
 **Indian Institute of Information Technology, Nagpur**  
 _Bachelor of Technology in Computer Science_  
 📍 Nagpur, Maharashtra | 📅 Nov 2022 – Jun 2026  
-**CGPA:** 7.73  
+**CGPA:** 7.52
 
 **Yeshwant Mahavidyalaya**  
 _Higher Secondary Education (Science Stream)_  
@@ -37,7 +37,6 @@ _High School (Class X)_
 **Score:** 86%
 
 
-
 **Relevant Coursework:**
 - Data Structures, Algorithms Analysis, Software Development.  
 - Database Management, Artificial Intelligence, Machine Learning.  
@@ -50,15 +49,34 @@ _High School (Class X)_
 
 ### 🧠 [Innovative AI Challenge 2024](https://github.com/Ayushparwal/Certificatess/blob/main/Certificates/innovative_ai_challenge.pdf)  
 **Hackathon | Remote | Dec 2024**  
-- Developed a scalable XGBoost model with 90.41% accuracy for crop yield prediction.
-- Used Optuna for hyperparameter tuning and 5-fold cross-validation.
+- Developed a scalable XGBoost model with 90.41% accuracy for crop yield prediction.  
+- Used Optuna for hyperparameter tuning and 5-fold cross-validation.  
 - Delivered data-driven solutions to aid farmers and policymakers.
 
 ### 🎯 [Kaggle: Academic Success Dataset](https://github.com/Ayushparwal/Certificatess/blob/main/Certificates/kaggle-comp-certificates.png)  
 **Kaggle Competition | Remote | Jun 2024**  
-- Ranked 1st with 84.035% (Public LB) and 83.591% (Private LB).
-- Built models with XGBoost, CatBoost, LightGBM, and ensemble methods.
+- Ranked 1st with 84.035% (Public LB) and 83.591% (Private LB).  
+- Built models with XGBoost, CatBoost, LightGBM, and ensemble methods.  
 - Deployed on T4 GPU using Optuna for optimization.
+
+### 📊 PathBreakers  
+**AI/ML Intern | Remote | Jun 2025 – Present**  
+- Developing AI-powered tools for generating **personalized career reports** and **intelligent student profiling**.  
+- Integrating models into ed-tech pipelines to deliver **tailored learning recommendations**.  
+- Enhancing user engagement and experience through smart recommendation systems.
+
+  
+### 🚀 ISRO – Indian Space Research Organization  
+**Research Intern | Remote | Jan 2025 – Feb 2025**  
+- Contributed to simulation-based research in **Finite Element Analysis (FEA)** and **Computational Fluid Dynamics (CFD)**.  
+- Reviewed and analyzed scientific papers to support simulation accuracy and computational design.  
+- Gained hands-on experience with aerospace modeling and scientific research methodologies.
+
+### 🧪 Prodigy InfoTech  
+**Machine Learning Intern | Remote | June 2024**  
+- Designed and trained a custom **machine learning model** tailored to company specifications.  
+- Built and optimized a database backend to support efficient querying for model predictions.  
+- Achieved an accuracy of **83.19%**, improving insights and model performance for internal datasets.
 
 ---
 
@@ -114,9 +132,10 @@ A sleek, fast, and responsive personal portfolio website showcasing projects, sk
 
 ## 🏆 Leadership & Achievements
 
-- 🥇 Rank 1 out of 2,684 participants in Kaggle’s Merchandise Playground Series  
-- ✅ Certified by NVIDIA in:
-  - AI for Anomaly Detection.
-  - Transformers-Based NLP Applications.
+- 🥇 Secured **Rank 1** out of **2,684 participants** in Kaggle’s *Merchandise Playground Series* competition.
+- 🧠 Earned certifications from **NVIDIA** in:
+  - **AI for Anomaly Detection**
+  - **Transformers-Based NLP Applications**
+- 📁 All certificates available here: [📜 GitHub – Certificates Repository](https://github.com/Ayushparwal/certificatess/)
 
 ---
