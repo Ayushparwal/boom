@@ -1,14 +1,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-parwal-797a79255/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayushparwal)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayushparwal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushokaay/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ayushokaay)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ayushparwal2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ayushparwal22/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushokaay/)
-
-
 
 ---
 
