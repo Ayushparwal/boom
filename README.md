@@ -1,7 +1,14 @@
 # Ayush Parwal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-parwal-797a79255/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayushparwal)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayushparwal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayushparwal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayushokaay/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ayushokaay)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ayushparwal2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ayushparwal22/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ayushokaay/)
+
 
 
 ---
@@ -13,11 +20,29 @@ _Bachelor of Technology in Computer Science_
 📍 Nagpur, Maharashtra | 📅 Nov 2022 – Jun 2026  
 **CGPA:** 7.73  
 
+**Yeshwant Mahavidyalaya**  
+_Higher Secondary Education (Science Stream)_  
+📍 Nanded, Maharashtra | 📅 Apr 2020 – Apr 2022  
+**Percentage:** 65.17%
+
+**Aakash Institute**  
+_JEE Mains & Advanced Preparation_  
+📍 India (Remote + Classroom) | 📅 May 2020 – Apr 2022  
+- **JEE Main & Advanced Rank (CRL):** 28,867  
+- **JEE Percentile:** 97.00%
+
+**Nagarjuna Public School**  
+_High School (Class X)_  
+📍 Nanded, Maharashtra | 📅 Mar 2020  
+**Score:** 86%
+
+
+
 **Relevant Coursework:**
-- Data Structures, Algorithms Analysis, Software Development  
-- Database Management, Artificial Intelligence, Machine Learning  
-- Deep Learning, Natural Language Processing, Generative AI  
-- Computer Vision, Systems Programming, Mathematics & Statistics  
+- Data Structures, Algorithms Analysis, Software Development.  
+- Database Management, Artificial Intelligence, Machine Learning.  
+- Deep Learning, Natural Language Processing, Generative AI.  
+- Computer Vision, Systems Programming, Mathematics & Statistics.  
 
 ---
 
@@ -69,11 +94,21 @@ An AI-driven tool that helps detect and diagnose plant diseases using image reco
 
 ---
 
+### 🌐 [Portfolio Website](https://ayushnet.vercel.app)  
+**Tech Stack:** TypeScript, CSS, Vite, Vercel  
+A sleek, fast, and responsive personal portfolio website showcasing projects, skills, and achievements.  
+- Built from scratch using **TypeScript and CSS** with modern web development practices for performance and accessibility.  
+- Features interactive sections for bio, education, technical skills, project links, and certifications.  
+- Designed with a minimalist and mobile-friendly layout for a smooth user experience across devices.  
+- Deployed on **Vercel** with continuous deployment and custom domain integration.
+
+---
+
 ## 🛠 Technical Skills
 
-**Languages:** C, C++, Python, JavaScript, MySQL, HTML/CSS, PHP, Shell Scripting  
-**Frameworks & Libraries:** Django, Flask, TensorFlow, PyTorch, Keras, OpenCV, Pandas, NumPy, Scikit-learn, Bootstrap, Matplotlib  
-**Concepts:** AI, ML, Deep Learning, NLP, Neural Networks, ETL, Prompt Engineering, Cloud (GCP/AWS), OS, APIs, Pipelines, Software Dev  
+**Languages:** C, C++, Python, JavaScript, MySQL, HTML/CSS, PHP, Shell Scripting. 
+**Frameworks & Libraries:** Django, Flask, TensorFlow, PyTorch, Keras, OpenCV, Pandas, NumPy, Scikit-learn, Bootstrap, Matplotlib.  
+**Concepts:** AI, ML, Deep Learning, NLP, Neural Networks, ETL, Prompt Engineering, Cloud (GCP/AWS), OS, APIs, Pipelines, Software Development.  
 
 ---
 
@@ -81,7 +116,7 @@ An AI-driven tool that helps detect and diagnose plant diseases using image reco
 
 - 🥇 Rank 1 out of 2,684 participants in Kaggle’s Merchandise Playground Series  
 - ✅ Certified by NVIDIA in:
-  - AI for Anomaly Detection
-  - Transformers-Based NLP Applications
+  - AI for Anomaly Detection.
+  - Transformers-Based NLP Applications.
 
 ---
