@@ -11,16 +11,11 @@ _Bachelor of Technology in Computer Science_
 📍 Nagpur, Maharashtra | 📅 Nov 2022 – Jun 2026  
 **CGPA:** 7.52
 
-**Yeshwant Mahavidyalaya**  
-_Higher Secondary Education (Science Stream)_  
-📍 Nanded, Maharashtra | 📅 Apr 2020 – Apr 2022  
-**Percentage:** 65.17%
-
 **Aakash Institute**  
 _JEE Mains & Advanced Preparation_  
 📍 India (Remote + Classroom) | 📅 May 2020 – Apr 2022  
-- **JEE Main & Advanced Rank (CRL):** 28,867  
-- **JEE Percentile:** 97.00%
+- **JEE Main & Advanced Rank (CRL):** 28867 AIR
+- **JEE Percentile:** 97.02%
 
 **Nagarjuna Public School**  
 _High School (Class X)_  
@@ -62,12 +57,6 @@ _High School (Class X)_
 - Contributed to simulation-based research in **Finite Element Analysis (FEA)** and **Computational Fluid Dynamics (CFD)**.  
 - Reviewed and analyzed scientific papers to support simulation accuracy and computational design.  
 - Gained hands-on experience with aerospace modeling and scientific research methodologies.
-
-### 🧪 Prodigy InfoTech  
-**Machine Learning Intern | Remote | June 2024**  
-- Designed and trained a custom **machine learning model** tailored to company specifications.  
-- Built and optimized a database backend to support efficient querying for model predictions.  
-- Achieved an accuracy of **83.19%**, improving insights and model performance for internal datasets.
 
 ---
 
