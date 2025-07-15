@@ -1,4 +1,6 @@
 title: Ayush Parwal
 logo: /assets/img/tomcat-sleep.jpg
-description: "Machine Learning, AI Researcher with a passion for Search Engines and Natural Language Processing."
-theme: jekyll-theme-cayman-dark
+description: "Machine Learning, AI Researcher with an interest in Search Engines and NLP."
+remote_theme: lewismiddleton/cayman-dark
+plugins:
+  - jekyll-remote-theme
