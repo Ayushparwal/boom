@@ -7,26 +7,16 @@
 ## 🎓 Education
 
 **Indian Institute of Information Technology, Nagpur**  
-_Bachelor of Technology in Computer Science_  
+_Bachelor of Technology with Specialized in AI ML with Computer Science_
 📍 Nagpur, Maharashtra | 📅 Nov 2022 – Jun 2026  
-**CGPA:** 7.52
+**CGPA:** 7.71
 
-**Aakash Institute**  
-_JEE Mains & Advanced Preparation_  
-📍 India (Remote + Classroom) | 📅 May 2020 – Apr 2022  
-- **JEE Main & Advanced Rank (CRL):** 28867 AIR
-- **JEE Percentile:** 97.02%
-
-**Nagarjuna Public School**  
-_High School (Class X)_  
-📍 Nanded, Maharashtra | 📅 Mar 2020  
-**Score:** 86%
 
 
 **Relevant Coursework:**
 - Data Structures, Algorithms Analysis, Software Development.  
 - Database Management, Artificial Intelligence, Machine Learning.  
-- Deep Learning, Natural Language Processing, Generative AI.  
+- Deep Learning, Natural Language Processing, Generative AI, AI security, Automated AI Agents.
 - Computer Vision, Systems Programming, Mathematics & Statistics.  
 
 ---
@@ -45,18 +35,16 @@ _High School (Class X)_
 - Built models with XGBoost, CatBoost, LightGBM, and ensemble methods.  
 - Deployed on T4 GPU using Optuna for optimization.
 
-### 📊 PathBreakers  
-**AI/ML Intern | Remote | Jun 2025 – Present**  
-- Developing AI-powered tools for generating **personalized career reports** and **intelligent student profiling**.  
-- Integrating models into ed-tech pipelines to deliver **tailored learning recommendations**.  
-- Enhancing user engagement and experience through smart recommendation systems.
+### ISF  
+**Full Stack AI/ML Intern | Remote | Jan 2026 – Jun 2026**  
+- Constructed a backend pipeline to parse unstructured LLM outputs into structured, schema-validated data using Pydantic, and deployed FastAPI endpoints with fallback/error-recovery logic to integrate model inference reliably across front-end and backend systems.
 
   
-### 🚀 ISRO – Indian Space Research Organization  
-**Research Intern | Remote | Jan 2025 – Feb 2025**  
-- Contributed to simulation-based research in **Finite Element Analysis (FEA)** and **Computational Fluid Dynamics (CFD)**.  
-- Reviewed and analyzed scientific papers to support simulation accuracy and computational design.  
-- Gained hands-on experience with aerospace modeling and scientific research methodologies.
+### Grafyn AI
+**Founding ML Engineer Intern | Remote | July 2025 - Dec 2025**  
+- Designed and scaled ML security pipelines on AWS, Databricks, and Snowflake to simulate and detect model stealing, perturbation, and data poisoning attacks, improving detection coverage of adversarial ML threats.
+– Collaborated with Red Teaming to harden production agents against jailbreaking, prompt injection, obfuscation, and LLM hijacking using automated testing workflows.
+– Built scalable data ingestion and evaluation pipelines using Python and Spark to monitor adversarial behavior and security metrics across large-scale ML workloads.
 
 ---
 
@@ -92,16 +80,24 @@ An AI-driven tool that helps detect and diagnose plant diseases using image reco
 
 ---
 
-### 🌐 [Portfolio Website](https://ayushnet.vercel.app)  
-**Tech Stack:** TypeScript, CSS, Vite, Vercel  
-A sleek, fast, and responsive personal portfolio website showcasing projects, skills, and achievements.  
-- Built from scratch using **TypeScript and CSS** with modern web development practices for performance and accessibility.  
-- Features interactive sections for bio, education, technical skills, project links, and certifications.  
-- Designed with a minimalist and mobile-friendly layout for a smooth user experience across devices.  
-- Deployed on **Vercel** with continuous deployment and custom domain integration.
+### [Secure RAG](https://github.com/Ayushparwal/secure-rag)
+**Tech Stack:** LLMs, RAG, Groq, OpenAI, ChromaDB, FAISS, BM25, RAGAS, Streamlit 
+– Architected a production-ready Secure RAG system for enterprise knowledge retrieval, leveraging OpenAI embeddings, tunable semantic chunking (2–10 chunk granularity for retrieval optimization), and vector databases(ChromaDB/FAISS) to index unstructured documents and web data.
+– Developed a hybrid search and reranking pipeline using BM25, dense vector retrieval, and cross-encoder models,
+significantly improving retrieval precision and contextual relevance for LLM-generated responses.
+– Implemented prompt injection detection, retrieval poisoning safeguards, and data leakage prevention with RAGAS-based automated evaluation for continuous faithfulness and relevance monitoring.
+
 
 ---
 
+### [Agentic Deep Research Assistant](https://github.com/Ayushparwal/Deep-Research-Agent)
+**Tech Stack:** Python, CrewAI, LinkUp, Ollama, Streamlit, MCP 
+– Architected a multi-agent research pipeline using CrewAI with three specialized agents like Web Searcher, Research Analyst, and Technical Writer — orchestrated via sequential task execution to automate end-to-end deep research workflows.
+– Scaled a custom CrewAI tool integrating LinkUp Search API with Pydantic input validation, enabling structured multi-depth web retrieval and reducing unstructured output errors across the research pipeline.
+– Packaged the multi-agent research system as an MCP server, allowing external AI clients to query and interact with the pipeline through a standardized protocol interface.
+
+---
+Want to See More Projects : https://www.github.com/Ayushparwal Checkout all repos.
 ## 🛠 Technical Skills
 
 **Languages:**  
