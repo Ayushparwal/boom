@@ -82,6 +82,7 @@ An AI-driven tool that helps detect and diagnose plant diseases using image reco
 
 ### [Secure RAG](https://github.com/Ayushparwal/secure-rag)
 **Tech Stack:** LLMs, RAG, Groq, OpenAI, ChromaDB, FAISS, BM25, RAGAS, Streamlit 
+
 – Architected a production-ready Secure RAG system for enterprise knowledge retrieval, leveraging OpenAI embeddings, tunable semantic chunking (2–10 chunk granularity for retrieval optimization), and vector databases(ChromaDB/FAISS) to index unstructured documents and web data.
 – Developed a hybrid search and reranking pipeline using BM25, dense vector retrieval, and cross-encoder models,
 significantly improving retrieval precision and contextual relevance for LLM-generated responses.
@@ -92,6 +93,7 @@ significantly improving retrieval precision and contextual relevance for LLM-gen
 
 ### [Agentic Deep Research Assistant](https://github.com/Ayushparwal/Deep-Research-Agent)
 **Tech Stack:** Python, CrewAI, LinkUp, Ollama, Streamlit, MCP 
+
 – Architected a multi-agent research pipeline using CrewAI with three specialized agents like Web Searcher, Research Analyst, and Technical Writer — orchestrated via sequential task execution to automate end-to-end deep research workflows.
 – Scaled a custom CrewAI tool integrating LinkUp Search API with Pydantic input validation, enabling structured multi-depth web retrieval and reducing unstructured output errors across the research pipeline.
 – Packaged the multi-agent research system as an MCP server, allowing external AI clients to query and interact with the pipeline through a standardized protocol interface.
