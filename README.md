@@ -13,7 +13,7 @@
 - **Twitter:** [link8](https://x.com/ayushparwal2004)
 - **Instagram:** [link9](https://www.instagram.com/ayushokaay)
 - **Talk?:** [link10](https://cal.com/ayushokaay)
-- **Email:** [link11](ayushparwal777@gmail.com)
+
 
 ---
 
@@ -26,6 +26,7 @@ Bachelor of Technology (B.Tech.) in Computer Science and Engineering, specializi
 - **Location:** Nagpur, Maharashtra, India
 - **Duration:** November 2022 – June 2026
 - **CGPA:** 7.71/10
+- **Email:** ayushparwal777@gmail.com       (I will surely reply)
 
 ---
 
