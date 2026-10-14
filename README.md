@@ -3,10 +3,17 @@
 
 ## 🔗 Profiles & Links
 
-- **LinkedIn:** [Ayush Parwal](https://www.linkedin.com/in/ayush-parwal-797a79255/)
-- **GitHub:** [Ayushparwal](https://github.com/Ayushparwal)
-- **LeetCode:** [Ayushparwal22](https://leetcode.com/Ayushparwal22)
-- **Kaggle:** [ayushparwal](https://www.kaggle.com/)
+- **LinkedIn:** [link1](https://www.linkedin.com/in/ayush-parwal-797a79255/)
+- **GitHub:** [link2](https://github.com/Ayushparwal)
+- **LeetCode:** [link3](https://leetcode.com/Ayushparwal22)
+- **Kaggle:** [link4](https://www.kaggle.com/ayushparwal)
+- **Huggingface:** [link5](https://huggingface.co/ayushparwal2004)
+- **Monkeytype:** [link6](https://monkeytype.com/profile/ayushparwal)
+- **Medium:** [link7](https://medium.com/@ayushokaay)
+- **Twitter:** [link8](https://x.com/ayushparwal2004)
+- **Instagram:** [link9](https://www.instagram.com/ayushokaay)
+- **Talk?:** [link10](https://cal.com/ayushokaay)
+- **Email:** [link11](ayushparwal777@gmail.com)
 
 ---
 
